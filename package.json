@@ -1,6 +1,6 @@
 {
   "name": "twitch-chatbot",       
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "orenong bot 1",
   "main": "bot.js",
   "scripts": {
